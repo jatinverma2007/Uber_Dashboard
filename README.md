@@ -36,7 +36,7 @@ This project presents a multi-page Uber analytics dashboard built in Tableau. It
 
 This dashboard is published on Tableau Public.
 
-- Live Dashboard: [Add your published dashboard URL here](https://public.tableau.com/)
+- Live Dashboard: [Uber Dashboard tableau public image ](https://public.tableau.com/shared/GPSR8JMRK?:display_count=n&:origin=viz_share_link)
 
 ## Tools Used
 
